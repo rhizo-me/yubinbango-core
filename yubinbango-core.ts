@@ -1,3 +1,4 @@
+//@ts-nocheck
 let CACHE = [];
 module YubinBango {
   export class Core {
